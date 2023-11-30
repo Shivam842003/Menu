@@ -1,0 +1,51 @@
+const menu = [
+    {
+      id: 1,
+      title: 'Poha',
+      category: 'breakfast',
+      price: 1.99,
+      img : './images/item-1.jpg',
+      desc: `Poha, also known as pauwa, sira, chira, chivda, avil or avalakki, among many other names, is flattened rice originating from the Indian subcontinent. `,
+    },
+    {
+      id: 2,
+      title: 'Veg Thali',
+      category: 'lunch',
+      price: 13.99,
+      img: './images/item-2.jpg',
+      desc: `A "veg thali" refers to a traditional Indian meal that consists of a variety of vegetarian dishes served on a single platter`,
+    },
+    {
+      id: 3,
+      title: 'Lassi',
+      category: 'shakes',
+      price: 4.99,
+      img: './images/item-3.jpg',
+      desc: `Lassi is an Indian yogurt-based beverage with a smoothie-like consistency. `,
+    },
+    {
+      id: 4,
+      title: 'Chole Bhature',
+      category: 'breakfast',
+      price: 14.99,
+      img: './images/item-4.jpg',
+      desc: `Chole bhature is a food dish popular in the Northern areas of the Indian subcontinent. It is a combination of chana masala and bhatura/puri, a deep-fried bread made from maida `,
+    },
+    {
+      id: 5,
+      title: 'Non-Veg Thali',
+      category: 'lunch',
+      price: 22.99,
+      img: './images/item-5.jpg',
+      desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+    },
+    {
+      id: 6,
+      title: 'oreo dream',
+      category: 'shakes',
+      price: 18.99,
+      img: './images/item-6.jpg',
+      desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+    },
+  ];
+  export default menu;
